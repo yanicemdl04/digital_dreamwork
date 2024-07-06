@@ -5,6 +5,15 @@
     font-size: 5em;
 }
 
+#bkg{
+  background: url('images/equipe1.jpg'); 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  height: 750px; 
+  background-attachment: fixed; 
+  background-position-y: -150px;
+}
+
 #para #ff {
     font-family: "Petit Formal Script", cursive;
   font-weight: 400;
